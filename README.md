@@ -1,6 +1,6 @@
 # flutter_app
 
-A new Flutter application.
+A new Flutter application that is connected to Firebase and utilize authentication and Storage Services .
 
 ## Getting Started
 
