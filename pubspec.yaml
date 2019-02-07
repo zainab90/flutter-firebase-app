@@ -21,6 +21,8 @@ dependencies:
   image_picker: ^0.4.10
   firebase_storage: ^1.0.4
   date_format: ^1.0.5
+  flutter_facebook_login: ^1.2.0
+
 
 
   # The following adds the Cupertino Icons font to your application.
